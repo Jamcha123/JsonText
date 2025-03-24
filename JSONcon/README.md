@@ -7,9 +7,9 @@ How to use:
 
     npm i jscon
 
-    import convertor from 'jsoncon'
+    import jsoncon from 'jsoncon'
 
-    const obj = new convertor();
+    const obj = new jsoncon();
     obj.convert("index.txt", "index.json") //index.txt is the input file and index.json is the json file
 
 You can use what ever txt file you want but it has to exist and it has to be a txt file.
