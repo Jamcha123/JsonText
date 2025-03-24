@@ -15,9 +15,9 @@ nodejs - npm:
 
     npm i jsoncon
 
-    import convertor from 'jsoncon'
+    import jsoncon from 'jsoncon'
 
-    const obj = new convertor();
+    const obj = new jsoncon();
     obj.convert("index.txt", "index.json") //index.txt is the input file and index.json is the json file
 
 The text file has to be txt file and json file has to be a json file.
