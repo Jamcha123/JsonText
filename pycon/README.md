@@ -13,4 +13,4 @@ How to use:
     -o is the output file has to be a json file
 
 You can change the file names.
-In general it inputs a given text file and output a json file of the name  
+In general it inputs a given text file and outputs a json file in a array format.
